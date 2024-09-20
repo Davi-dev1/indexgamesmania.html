@@ -1,0 +1,130 @@
+body{background-color: #fefefe;
+    text-align:center;
+    font-family: Arial Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin: 0;
+    padding: o;
+
+   
+
+}
+header{
+    background: black;
+    margin:0;
+}
+header h1{
+    color: #fefefe;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    text-align: center;
+    padding: 5px;
+    max-height: 20vh;
+
+}
+
+#Listas{
+    color:rgb(229, 255, 0);
+}
+#Recomendações{
+    color: aqua;
+}
+button{
+    display: inline;
+    color:#fefefe;
+    text-decoration: none;
+    background: #333;
+    padding: 1vh 2vw 1vh 2vw;
+    border-radius:10px;
+    transition: all 0.3s;
+
+
+}
+button:hover{
+background:blue;}
+
+
+main{border-radius: 100px;
+    width: 100vw;
+    background:url(https://cdn.imza.com/indirv2/img/1-1608015983.png)no-repeat center center;
+    opacity: 4.0;
+    background-size: cover;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    padding: 0px;
+    height: 60vh;
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+   color:black;
+   margin: 20;
+   text-align: center;
+
+   padding: 125px;
+
+
+}
+.parágrafo{
+    font-family: Arial, sans-serif;
+    color: beige;
+    margin: 0;
+    text-align: center;
+}
+#noticias{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 160%;
+background: gray;
+}
+ #borda{
+     
+        justify-content: center; /* Centraliza horizontalmente */
+        align-items: center;     /* Centraliza verticalmente */
+        height: 95vh;           /* Faz a div ocupar a altura total da tela */border: 2px solid black;
+        background: url(https://img.freepik.com/vetores-premium/ilustracao-em-vetor-conceito-abstrato-de-jogos-em-nuvem_107173-25161.jpg) repeat left ;      }
+      
+#borda2{
+justify-content:left;
+align-items: left;
+border: 10px solid ;
+height: 35vh;
+display:flex;
+padding: 36px;
+text-align: left;
+
+
+}
+#assassin{
+    text-align: center;
+    font-size:xx-large;
+    padding: 60px;
+    margin-block: inherit;
+
+
+
+}
+#parágrafoassassin{
+text-align: center;
+padding: 65px;
+margin: 123px;
+margin-block: auto;
+margin-left: inherit;
+
+}
+ #imagem{
+padding: 18px;
+margin: -55px;
+
+
+}
+footer{
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 10px 0;
+
+width: 100%;
+bottom: 0;
+
+}
