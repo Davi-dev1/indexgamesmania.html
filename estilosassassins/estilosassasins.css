@@ -1,0 +1,43 @@
+body{
+    background: gray;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: black;
+}
+#titulo{
+
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: darkgreen;}
+#assassins{
+    border: 3px solid;
+   }
+   .image{
+border-radius: 30px;
+text-align: center;
+transition:transform 0.3s ;
+   }
+   .image:hover{
+    transform: scale(1.1);
+   }
+   button{
+    display: inline;
+    color:#fefefe;
+    text-decoration: none;
+    background: #333;
+    padding: 1vh 2vw 1vh 2vw;
+    border-radius:10px;
+    transition: all 0.3s;
+
+  }button:hover{
+    background:blue;}
+    footer{
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+        
+        width: 100vw;
+         bottom: 0;}
